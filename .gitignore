@@ -1,1 +1,8 @@
 cscope.*
+*.swp
+*.o
+*.bin
+*.elf
+*.ld
+*.map
+*.patch
